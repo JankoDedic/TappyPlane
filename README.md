@@ -11,4 +11,4 @@
 # Features
 - Infinite scrolling background and ground which adds a feeling of depth.
 - Custom cursor that reacts to clicks.
-- Quality random obstacle generation using Mersenne Twister engine with `<random>`.
+- Quality random obstacle generation using Mersenne Twister engine through the `<random>` header.
