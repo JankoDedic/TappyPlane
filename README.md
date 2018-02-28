@@ -1,5 +1,5 @@
 # Tappy Plane
-*Tappy Plane* is a "Flappy Bird" clone written in C++17 using [SDLW](https://github.com/djanko1337/SDLW).
+*Tappy Plane* is a "Flappy Bird" clone written in C++17 using [SDLW](https://github.com/JankoDedic/SDLW).
 
 # Screenshots
 <p align="center">
